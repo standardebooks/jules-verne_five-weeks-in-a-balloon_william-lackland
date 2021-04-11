@@ -7,11 +7,11 @@ table td:last-child{
 }
 
 footer{
-	font-style: italic; 
-} 
+	font-style: italic;
+}
 
 footer [epub|type~="z3998:signature"]{
-	font-style: normal; 
+	font-style: normal;
 }
 
 figure img{
@@ -29,6 +29,7 @@ figcaption{
 figcaption p + p{
 	text-indent: 0;
 }
+
 figure.full-page{
 	break-after: page;
 	break-before: page;

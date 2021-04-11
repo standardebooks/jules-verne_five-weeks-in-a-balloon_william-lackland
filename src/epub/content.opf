@@ -55,11 +55,9 @@
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">Three men attempt to cross Africa by balloon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Five Weeks in a Balloon&lt;/i&gt; tells the tale of three Englishmen who attempt to cross Africa, from east to west, in a balloon.  They have many adventures as they proceed.  &lt;/p&gt;
-
-			&lt;p&gt;Although a work of fiction, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; gives plenty of references to actual historical explorers.  He describes the flora and fauna, the geography, and the people of Africa the travellers encounter. European interest in African exploration was a topical issue of the time.  &lt;/p&gt;
-
-			&lt;p&gt;The novel was first published in 1863.  This edition, translated into English by William Lackland, was published in 1869.  &lt;/p&gt;	
+			&lt;p&gt;&lt;i&gt;Five Weeks in a Balloon&lt;/i&gt; tells the tale of three Englishmen who attempt to cross Africa, from east to west, in a balloon. They have many adventures as they proceed. &lt;/p&gt;
+			&lt;p&gt;Although a work of fiction, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; gives plenty of references to actual historical explorers. He describes the flora and fauna, the geography, and the people of Africa the travellers encounter. European interest in African exploration was a topical issue of the time. &lt;/p&gt;
+			&lt;p&gt;The novel was first published in 1863. This edition, translated into English by William Lackland, was published in 1869. &lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3526</dc:source>
@@ -77,9 +75,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">William Lackland</dc:contributor>
-                <meta property="file-as" refines="#author">Lackland, William</meta>
-                <meta property="se:name.person.full-name" refines="#author">William Lackland</meta>
-                <meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<meta property="file-as" refines="#author">Lackland, William</meta>
+		<meta property="se:name.person.full-name" refines="#author">William Lackland</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">William Holbrook Beard</dc:contributor>
 		<meta property="file-as" refines="#artist">Beard, William Holbrook</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Holbrook_Beard</meta>
