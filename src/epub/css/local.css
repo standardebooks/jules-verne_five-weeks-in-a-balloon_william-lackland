@@ -1,6 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+table{
+	margin: 1em;
+}
+
 table td:last-child{
 	text-align: right;
 	font-variant-numeric: tabular-nums;
@@ -8,6 +12,8 @@ table td:last-child{
 
 footer{
 	font-style: italic;
+	margin-top: 1em; 
+	text-align: left;
 }
 
 footer [epub|type~="z3998:signature"]{
