@@ -51,8 +51,4 @@ figcaption p + p{
 		flex-direction: column;
 		max-height: 100vh;
 	}
-
-	.full-page img{
-		height: 100%;
-	}
 }
