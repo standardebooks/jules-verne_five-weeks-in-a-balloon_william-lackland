@@ -37,20 +37,18 @@
 		<dc:title id="fulltitle">Five Weeks in a Balloon; or, Journeys and Discoveries in Africa by Three Englishmen</dc:title>
 		<meta property="file-as" refines="#fulltitle">Five Weeks in a Balloon</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<dc:subject id="subject-2">Africa -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Adventure stories</dc:subject>
-		<dc:subject id="subject-4">Travel -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Balloons -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Africa -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Adventure stories</dc:subject>
+		<dc:subject id="subject-3">Travel -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Balloons -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="term" refines="#subject-1">sh2007101346</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">sh2007101346</meta>
+		<meta property="term" refines="#subject-2">sh85001072</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">sh85001072</meta>
+		<meta property="term" refines="#subject-3">sh2010116997</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">sh2010116997</meta>
-		<meta property="authority" refines="#subject-5">LCSH</meta>
-		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Travel</meta>
@@ -74,8 +72,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">William Lackland</dc:contributor>
-		<meta property="file-as" refines="#author">Lackland, William</meta>
-		<meta property="se:name.person.full-name" refines="#author">William Lackland</meta>
+		<meta property="file-as" refines="#translator">Lackland, William</meta>
+		<meta property="se:name.person.full-name" refines="#translator">William Lackland</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">William Holbrook Beard</dc:contributor>
 		<meta property="file-as" refines="#artist">Beard, William Holbrook</meta>
