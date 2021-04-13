@@ -73,7 +73,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">William Lackland</dc:contributor>
 		<meta property="file-as" refines="#translator">Lackland, William</meta>
-		<meta property="se:name.person.full-name" refines="#translator">William Lackland</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">William Holbrook Beard</dc:contributor>
 		<meta property="file-as" refines="#artist">Beard, William Holbrook</meta>
