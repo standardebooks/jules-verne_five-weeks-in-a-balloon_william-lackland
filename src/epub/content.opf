@@ -63,7 +63,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3526</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009794114</dc:source>
-		<meta property="se:word-count">91509</meta>
+		<meta property="se:word-count">91503</meta>
 		<meta property="se:reading-ease.flesch">70.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Five_Weeks_in_a_Balloon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_five-weeks-in-a-balloon_william-lackland</meta>
