@@ -28,7 +28,7 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Five Weeks in a Balloon</dc:title>
-		<meta property="dcterms:alternate">5 Weeks in a Balloon</meta>
+		<meta property="dcterms:alternative">5 Weeks in a Balloon</meta>
 		<meta property="file-as" refines="#title">Five Weeks in a Balloon</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">Journeys and Discoveries in Africa by Three Englishmen</dc:title>
