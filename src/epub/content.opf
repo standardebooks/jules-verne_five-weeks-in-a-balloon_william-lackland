@@ -55,7 +55,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>Three men attempt to cross Africa by balloon.</dc:abstract>
+		<meta property="schema:abstract">Three men attempt to cross Africa by balloon.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Five Weeks in a Balloon&lt;/i&gt; tells the tale of three Englishmen who attempt to cross Africa, from east to west, in a balloon. Dr. Ferguson is the rational scientist leading the trio, accompanied by loyal sidekick Joe and the doctor’s sporting friend Kennedy.&lt;/p&gt;
 			&lt;p&gt;The three embark on many adventures: They encounter natives and dangerous animals, experience problems with their ballooning technology, and struggle with the winds and the weather. Throughout the novel, the author liberally sprinkles descriptions of flora, fauna, and geography, as seen through nineteenth century eyes.&lt;/p&gt;
